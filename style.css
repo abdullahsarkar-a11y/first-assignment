@@ -1,0 +1,58 @@
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+p {
+    color: dimgrey;
+}
+.name-highlight{
+    color: orangered;
+    text:bold
+}
+
+.link-bottom{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 7px 9px;
+    color: white;
+    background-image: linear-gradient(orangered,red);
+    font-size: 700;
+}
+
+section{
+    padding-bottom: 200px;
+    height: 500px;
+}
+.half-width{
+    width: 40%;
+    margin: 2%;
+    padding-left: 5px;
+    float: left;
+}
+.half-width img {
+    width: 100%;
+
+}
+.mark-word{
+    text-align: center;
+}
+.fake{
+    color: orangered;
+}
+.img-div{
+    margin: 10px;
+    background-color: rgb(red, green, blue);
+}
+.img-blog{
+    width: 30%;
+    margin: 5px;
+    float: left;
+}
+.full-width{
+   margin-left: 30px;
+   }
+.lower-img{
+    width: 70%;
+    
+}
